@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/23Amansharma/DSA-Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1441-build-an-array-with-stack-operations](https://github.com/23Amansharma/DSA-Journey/tree/master/1441-build-an-array-with-stack-operations) |
 ## Linked List
 |  |
 | ------- |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/23Amansharma/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
+## Stack
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/23Amansharma/DSA-Journey/tree/master/1441-build-an-array-with-stack-operations) |
+## Simulation
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/23Amansharma/DSA-Journey/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
