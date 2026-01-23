@@ -50,4 +50,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/23Amansharma/DSA-Journey/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/23Amansharma/DSA-Journey/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/23Amansharma/DSA-Journey/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/23Amansharma/DSA-Journey/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
