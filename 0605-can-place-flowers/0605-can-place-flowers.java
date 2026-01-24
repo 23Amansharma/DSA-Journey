@@ -1,25 +1,16 @@
 class Solution {
-    public boolean canPlaceFlowers(int[] flowerbed, int n) {
-        int len = flowerbed.length;
+    public boolean canPlaceFlowers(int[] f, int n) {
+        if (n == 0) return true; // nothing to place
 
-        for (int i = 0; i < len; i++) {
+        for (int i = 0; i < f.length; i++) {
+            if (f[i] == 0 &&
+                (i == 0 || f[i - 1] == 0) &&
+                (i == f.length - 1 || f[i + 1] == 0)) {
 
-            // current plot empty hona chahiye
-            if (flowerbed[i] == 0) {
-
-                // left & right check (boundary safe)
-                boolean leftEmpty  = (i == 0) || flowerbed[i - 1] == 0;
-                boolean rightEmpty = (i == len - 1) || flowerbed[i + 1] == 0;
-
-                // dono side empty → flower place
-                if (leftEmpty && rightEmpty) {
-                    flowerbed[i] = 1; // plant
-                    n--;              // one flower placed
-
-                    if (n == 0) return true; // early exit
-                }
+                f[i] = 1; // plant
+                if (--n == 0) return true; // early exit = faster
             }
         }
-        return n <= 0;
+        return false;
     }
 }
