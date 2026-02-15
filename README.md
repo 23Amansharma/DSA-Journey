@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/23Amansharma/DSA-Journey/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/23Amansharma/DSA-Journey/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/23Amansharma/DSA-Journey/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/23Amansharma/DSA-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Recursion
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/23Amansharma/DSA-Journey/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/23Amansharma/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/23Amansharma/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/23Amansharma/DSA-Journey/tree/master/0392-is-subsequence) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/23Amansharma/DSA-Journey/tree/master/0067-add-binary) |
 | [1441-build-an-array-with-stack-operations](https://github.com/23Amansharma/DSA-Journey/tree/master/1441-build-an-array-with-stack-operations) |
 ## Dynamic Programming
 |  |
@@ -95,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/23Amansharma/DSA-Journey/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3634-minimum-removals-to-balance-array](https://github.com/23Amansharma/DSA-Journey/tree/master/3634-minimum-removals-to-balance-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/23Amansharma/DSA-Journey/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
