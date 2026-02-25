@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/23Amansharma/DSA-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0334-increasing-triplet-subsequence](https://github.com/23Amansharma/DSA-Journey/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/23Amansharma/DSA-Journey/tree/master/0605-can-place-flowers) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/23Amansharma/DSA-Journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/23Amansharma/DSA-Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/23Amansharma/DSA-Journey/tree/master/1441-build-an-array-with-stack-operations) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/23Amansharma/DSA-Journey/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/23Amansharma/DSA-Journey/tree/master/0761-special-binary-string) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/23Amansharma/DSA-Journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/23Amansharma/DSA-Journey/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3634-minimum-removals-to-balance-array](https://github.com/23Amansharma/DSA-Journey/tree/master/3634-minimum-removals-to-balance-array) |
 ## Bit Manipulation
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/23Amansharma/DSA-Journey/tree/master/0190-reverse-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/23Amansharma/DSA-Journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/23Amansharma/DSA-Journey/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/23Amansharma/DSA-Journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/23Amansharma/DSA-Journey/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Divide and Conquer
 |  |
@@ -138,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/23Amansharma/DSA-Journey/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/23Amansharma/DSA-Journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
