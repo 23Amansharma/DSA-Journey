@@ -13,16 +13,4 @@
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre>
-<strong>Input:</strong> arr = [1,2,4]
-<strong>Output:</strong> false
-<strong>Explanation: </strong>There is no way to reorder the elements to obtain an arithmetic progression.
-</pre>
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
-
-<ul>
-	<li><code>2 &lt;= arr.length &lt;= 1000</code></li>
-	<li><code>-10<sup>6</sup> &lt;= arr[i] &lt;= 10<sup>6</sup></code></li>
-</ul>
