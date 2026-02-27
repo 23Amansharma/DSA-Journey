@@ -11,7 +11,6 @@
 <p data-end="609" data-is-last-node="" data-is-only-node="" data-start="349">Return the <strong>maximum</strong> sum of any trionic subarray in <code data-end="417" data-start="411">nums</code>.</p>
 
 <p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
 
 <div class="example-block">
 <p><strong>Input:</strong> <span class="example-io">nums = [0,-2,-1,-3,0,2,-1]</span></p>
