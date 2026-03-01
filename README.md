@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/23Amansharma/DSA-Journey/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/23Amansharma/DSA-Journey/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/23Amansharma/DSA-Journey/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/23Amansharma/DSA-Journey/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/23Amansharma/DSA-Journey/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/23Amansharma/DSA-Journey/tree/master/0605-can-place-flowers) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/23Amansharma/DSA-Journey/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Hash Table
 |  |
 | ------- |
