@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/23Amansharma/DSA-Journey/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/23Amansharma/DSA-Journey/tree/master/1980-find-unique-binary-string) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/23Amansharma/DSA-Journey/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/23Amansharma/DSA-Journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3634-minimum-removals-to-balance-array](https://github.com/23Amansharma/DSA-Journey/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-trionic-array-ii](https://github.com/23Amansharma/DSA-Journey/tree/master/3640-trionic-array-ii) |
 ## Linked List
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/23Amansharma/DSA-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/23Amansharma/DSA-Journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/23Amansharma/DSA-Journey/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/23Amansharma/DSA-Journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/23Amansharma/DSA-Journey/tree/master/0605-can-place-flowers) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/23Amansharma/DSA-Journey/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/23Amansharma/DSA-Journey/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/23Amansharma/DSA-Journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/23Amansharma/DSA-Journey/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Hash Table
 |  |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/23Amansharma/DSA-Journey/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/23Amansharma/DSA-Journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/23Amansharma/DSA-Journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/23Amansharma/DSA-Journey/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Union-Find
 |  |
