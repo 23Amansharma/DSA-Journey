@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/23Amansharma/DSA-Journey/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/23Amansharma/DSA-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/23Amansharma/DSA-Journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1622-fancy-sequence](https://github.com/23Amansharma/DSA-Journey/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/23Amansharma/DSA-Journey/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/23Amansharma/DSA-Journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Recursion
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/23Amansharma/DSA-Journey/tree/master/0933-number-of-recent-calls) |
+| [1622-fancy-sequence](https://github.com/23Amansharma/DSA-Journey/tree/master/1622-fancy-sequence) |
 ## Queue
 |  |
 | ------- |
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/23Amansharma/DSA-Journey/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/23Amansharma/DSA-Journey/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
