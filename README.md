@@ -130,7 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/23Amansharma/DSA-Journey/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/23Amansharma/DSA-Journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
-## Sorting
+## Sorting approach
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/23Amansharma/DSA-Journey/tree/master/0761-special-binary-string) |
