@@ -7,7 +7,7 @@ class Solution {
         int count[][] = new int[m+1][n+1]; 
         int find = 0;
         
-        // FIX 1: Changed i < m-1 to i < m AND j < n-1 to j < n
+        // Changed i < m-1 to i < m AND j < n-1 to j < n
         for(int i = 0; i < m; i++){
             for(int j = 0; j < n; j++){
                 int value = 0; 
@@ -25,7 +25,7 @@ class Solution {
                 sum[i+1][j+1]  = value + sum[i][j+1] + sum[i+1][j] - sum[i][j];
                 count[i+1][j+1] = isX + count[i][j+1] + count[i+1][j] - count[i][j];
                 
-                // FIX 2: Changed & to && for Logical AND
+                //  Changed & to && for Logical AND
                 if(sum[i+1][j+1] == 0 && count[i+1][j+1] > 0){
                     find++;
                 }
