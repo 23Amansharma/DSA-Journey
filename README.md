@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/23Amansharma/DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/23Amansharma/DSA-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/23Amansharma/DSA-Journey/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/23Amansharma/DSA-Journey/tree/master/0334-increasing-triplet-subsequence) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/23Amansharma/DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/23Amansharma/DSA-Journey/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/23Amansharma/DSA-Journey/tree/master/0704-binary-search) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/23Amansharma/DSA-Journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
