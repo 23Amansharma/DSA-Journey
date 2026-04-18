@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/23Amansharma/DSA-Journey/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/23Amansharma/DSA-Journey/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/23Amansharma/DSA-Journey/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/23Amansharma/DSA-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0874-walking-robot-simulation](https://github.com/23Amansharma/DSA-Journey/tree/master/0874-walking-robot-simulation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/23Amansharma/DSA-Journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/23Amansharma/DSA-Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/23Amansharma/DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/23Amansharma/DSA-Journey/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/23Amansharma/DSA-Journey/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/23Amansharma/DSA-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/23Amansharma/DSA-Journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3488-closest-equal-element-queries](https://github.com/23Amansharma/DSA-Journey/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/23Amansharma/DSA-Journey/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
