@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/23Amansharma/DSA-Journey/tree/master/1980-find-unique-binary-string) |
 | [2463-minimum-total-distance-traveled](https://github.com/23Amansharma/DSA-Journey/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/23Amansharma/DSA-Journey/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/23Amansharma/DSA-Journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2573-find-the-string-with-lcp](https://github.com/23Amansharma/DSA-Journey/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/23Amansharma/DSA-Journey/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/23Amansharma/DSA-Journey/tree/master/2906-construct-product-matrix) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/23Amansharma/DSA-Journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/23Amansharma/DSA-Journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/23Amansharma/DSA-Journey/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/23Amansharma/DSA-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/23Amansharma/DSA-Journey/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/23Amansharma/DSA-Journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/23Amansharma/DSA-Journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3488-closest-equal-element-queries](https://github.com/23Amansharma/DSA-Journey/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/23Amansharma/DSA-Journey/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
