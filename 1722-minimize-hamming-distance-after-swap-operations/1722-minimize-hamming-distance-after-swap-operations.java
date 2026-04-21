@@ -1,4 +1,3 @@
-import java.util.HashMap;
 class Solution {
     int parent[];// store value of each index
     public  int find(int element){
