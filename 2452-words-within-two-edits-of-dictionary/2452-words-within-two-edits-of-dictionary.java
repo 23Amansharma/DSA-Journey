@@ -1,16 +1,14 @@
-import java.util.*;
-
 class Solution {
     public List<String> twoEditWords(String[] queries, String[] dictionary) {
 
         List<String> ans = new ArrayList<>();
 
-        // Step 1: Check each query
-        for (String q : queries) {
+        //  Check each query
+        for (String word : queries) {
 
-            // Step 2: If it matches any dictionary word
-            if (isValid(q, dictionary)) {
-                ans.add(q);
+            // If it matches any dictionary word
+            if (isValid(word, dictionary)) {
+                ans.add(word);
             }
         }
 
@@ -18,17 +16,17 @@ class Solution {
     }
 
     // Helper function to check validity
-    private boolean isValid(String q, String[] dictionary) {
+    private boolean isValid(String word, String[] dictionary) {
 
         // Compare with every dictionary word
-        for (String d : dictionary) {
+        for (String word2 : dictionary) {
 
             int diff = 0;
 
             // Compare characters
-            for (int i = 0; i < q.length(); i++) {
+            for (int i = 0; i < word.length(); i++) {
 
-                if (q.charAt(i) != d.charAt(i)) {
+                if (word.charAt(i) != word2.charAt(i)) {
                     diff++;
 
                     // Stop early if more than 2 edits needed
