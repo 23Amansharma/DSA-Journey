@@ -1,32 +1,45 @@
-class Solution 
-{
-    public List<String> twoEditWords(String[] queries, String[] dictionary) 
-    {
-        List<String> ans = new ArrayList<>();//ans array creat 
-        for(String word : queries) //Loop through each query word
-        {
-            for(String word2 : dictionary)//Compare with every dictionary word
-            {
-               int  distance = 0; //count of different characters
-                for(int i = 0;i<word.length();i++)//Compare characters one by one
-                {
-                    if(word.charAt(i) != word2.charAt(i))
-                    {
-                        distance++;// no match distance  count
-                        
-                    if(distance>2)// 2 se jyda ignore nhi count limit max 2 letter changes
-                    {
-                        break;
-                    }
+import java.util.*;
+
+class Solution {
+    public List<String> twoEditWords(String[] queries, String[] dictionary) {
+
+        List<String> ans = new ArrayList<>();
+
+        // Step 1: Check each query
+        for (String q : queries) {
+
+            // Step 2: If it matches any dictionary word
+            if (isValid(q, dictionary)) {
+                ans.add(q);
+            }
+        }
+
+        return ans;
+    }
+
+    // Helper function to check validity
+    private boolean isValid(String q, String[] dictionary) {
+
+        // Compare with every dictionary word
+        for (String d : dictionary) {
+
+            int diff = 0;
+
+            // Compare characters
+            for (int i = 0; i < q.length(); i++) {
+
+                if (q.charAt(i) != d.charAt(i)) {
+                    diff++;
+
+                    // Stop early if more than 2 edits needed
+                    if (diff > 2) break;
                 }
             }
-        if(distance<=2) // dist 2 ya 2 se km to changes allow
-        {
-            ans.add(word);// add query word to answer array
-            break; //no need to check other dictionary words
+
+            // If any dictionary word matches within 2 edits
+            if (diff <= 2) return true;
         }
-    }
-}
-        return ans; // finall array return kr diya 
+
+        return false; // no match found
     }
 }
