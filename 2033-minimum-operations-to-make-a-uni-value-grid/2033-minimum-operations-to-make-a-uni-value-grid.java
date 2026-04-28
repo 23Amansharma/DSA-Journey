@@ -1,37 +1,40 @@
-import java.util.*;
+import java.util.Arrays;
 
 class Solution {
-    public int minOperations(int[][] grid, int x) {
-        int m = grid.length, n = grid[0].length;
-        int size = m * n;
-        int[] arr = new int[size];
-        
-        // Flatten grid
-        int idx = 0;
+
+    public int minOperations(int[][] grid, int stepSize) {
+        int rowCount = grid.length;
+        int colCount = grid[0].length;
+        int totalElements = rowCount * colCount;
+
+        int[] flattenedValues = new int[totalElements];
+        int index = 0;
+
+        // Step 1: Flatten the grid
         for (int[] row : grid) {
-            for (int val : row) {
-                arr[idx++] = val;
+            for (int value : row) {
+                flattenedValues[index++] = value;
             }
         }
-        
-        // Check feasibility
-        int mod = arr[0] % x;
-        for (int val : arr) {
-            if (val % x != mod) {
+
+        // Step 2: Check feasibility (same remainder mod stepSize)
+        int remainder = flattenedValues[0] % stepSize;
+        for (int value : flattenedValues) {
+            if (value % stepSize != remainder) {
                 return -1;
             }
         }
-        
-        // Sort and find median
-        Arrays.sort(arr);
-        int median = arr[size / 2];
-        
-        // Calculate operations
-        int operations = 0;
-        for (int val : arr) {
-            operations += Math.abs(val - median) / x;
+
+        // Step 3: Sort to find median
+        Arrays.sort(flattenedValues);
+        int targetValue = flattenedValues[totalElements / 2];
+
+        // Step 4: Calculate minimum operations
+        int operationCount = 0;
+        for (int value : flattenedValues) {
+            operationCount += Math.abs(value - targetValue) / stepSize;
         }
-        
-        return operations;
+
+        return operationCount;
     }
 }
