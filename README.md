@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/23Amansharma/DSA-Journey/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/23Amansharma/DSA-Journey/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/23Amansharma/DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/23Amansharma/DSA-Journey/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/23Amansharma/DSA-Journey/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/23Amansharma/DSA-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/23Amansharma/DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/23Amansharma/DSA-Journey/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/23Amansharma/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/23Amansharma/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/23Amansharma/DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/23Amansharma/DSA-Journey/tree/master/0268-missing-number) |
 | [0874-walking-robot-simulation](https://github.com/23Amansharma/DSA-Journey/tree/master/0874-walking-robot-simulation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/23Amansharma/DSA-Journey/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
