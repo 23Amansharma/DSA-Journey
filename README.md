@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/23Amansharma/DSA-Journey/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/23Amansharma/DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/23Amansharma/DSA-Journey/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/23Amansharma/DSA-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/23Amansharma/DSA-Journey/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/23Amansharma/DSA-Journey/tree/master/0334-increasing-triplet-subsequence) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/23Amansharma/DSA-Journey/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/23Amansharma/DSA-Journey/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/23Amansharma/DSA-Journey/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/23Amansharma/DSA-Journey/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/23Amansharma/DSA-Journey/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/23Amansharma/DSA-Journey/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/23Amansharma/DSA-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/23Amansharma/DSA-Journey/tree/master/0048-rotate-image) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/23Amansharma/DSA-Journey/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/23Amansharma/DSA-Journey/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/23Amansharma/DSA-Journey/tree/master/1559-detect-cycles-in-2d-grid) |
