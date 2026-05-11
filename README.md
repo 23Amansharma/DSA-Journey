@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/23Amansharma/DSA-Journey/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/23Amansharma/DSA-Journey/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/23Amansharma/DSA-Journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2553-separate-the-digits-in-an-array](https://github.com/23Amansharma/DSA-Journey/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/23Amansharma/DSA-Journey/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/23Amansharma/DSA-Journey/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/23Amansharma/DSA-Journey/tree/master/2751-robot-collisions) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/23Amansharma/DSA-Journey/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2069-walking-robot-simulation-ii](https://github.com/23Amansharma/DSA-Journey/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/23Amansharma/DSA-Journey/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2553-separate-the-digits-in-an-array](https://github.com/23Amansharma/DSA-Journey/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/23Amansharma/DSA-Journey/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/23Amansharma/DSA-Journey/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/23Amansharma/DSA-Journey/tree/master/3653-xor-after-range-multiplication-queries-i) |
