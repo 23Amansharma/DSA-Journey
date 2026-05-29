@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/23Amansharma/DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/23Amansharma/DSA-Journey/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/23Amansharma/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/23Amansharma/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/23Amansharma/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/23Amansharma/DSA-Journey/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/23Amansharma/DSA-Journey/tree/master/0443-string-compression) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/23Amansharma/DSA-Journey/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/23Amansharma/DSA-Journey/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/23Amansharma/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/23Amansharma/DSA-Journey/tree/master/0268-missing-number) |
 | [0874-walking-robot-simulation](https://github.com/23Amansharma/DSA-Journey/tree/master/0874-walking-robot-simulation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/23Amansharma/DSA-Journey/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting approach
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/23Amansharma/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/23Amansharma/DSA-Journey/tree/master/0268-missing-number) |
 | [0761-special-binary-string](https://github.com/23Amansharma/DSA-Journey/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/23Amansharma/DSA-Journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
