@@ -1,18 +1,21 @@
 class Solution {
     public int minElement(int[] nums) {
-     int arr[] = new int[nums.length];
-     for(int i = 0;i<nums.length;i++){
-        int store=0;
-        while(nums[i]>0){
-        store = store + nums[i] % 10;
-        nums[i] = nums[i]/10;
-        }
-        arr[i] = store;
-        }
-        int min = arr[0];
-      for(int i = 1;i<arr.length;i++){
-        if(arr[i]<min)  min = arr[i];
+         int min = Integer.MAX_VALUE;
+
+        for (int x : nums) {
+            String numtostr = Integer.toString(Math.abs(x));
+            int store = 0; 
+
+            for (int i = 0; i < numtostr.length(); i++) { 
+                char ch = numtostr.charAt(i);
+                int digit = Character.getNumericValue(ch); 
+                store += digit;
+            }
+
+            if (store < min) {
+                min = store; 
+            }
         }
         return min;
-      }
+}
 }
