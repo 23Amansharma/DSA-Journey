@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/23Amansharma/DSA-Journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/23Amansharma/DSA-Journey/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3093-longest-common-suffix-queries](https://github.com/23Amansharma/DSA-Journey/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/23Amansharma/DSA-Journey/tree/master/3161-block-placement-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/23Amansharma/DSA-Journey/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/23Amansharma/DSA-Journey/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/23Amansharma/DSA-Journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/23Amansharma/DSA-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/23Amansharma/DSA-Journey/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/23Amansharma/DSA-Journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3161-block-placement-queries](https://github.com/23Amansharma/DSA-Journey/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/23Amansharma/DSA-Journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/23Amansharma/DSA-Journey/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/23Amansharma/DSA-Journey/tree/master/3488-closest-equal-element-queries) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/23Amansharma/DSA-Journey/tree/master/1622-fancy-sequence) |
+| [3161-block-placement-queries](https://github.com/23Amansharma/DSA-Journey/tree/master/3161-block-placement-queries) |
 ## Enumeration
 |  |
 | ------- |
@@ -455,4 +458,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/23Amansharma/DSA-Journey/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/23Amansharma/DSA-Journey/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
