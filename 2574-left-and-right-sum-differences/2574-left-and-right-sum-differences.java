@@ -6,10 +6,13 @@ class Solution {
         }
         int[] ans = new int[nums.length];
         int rsum,lsum = 0;
-        for (int i = 0; i < nums.length; i++) {
+        int i = 0;
+        while(i<nums.length)
+        {
             rsum = tsum - lsum - nums[i];
             ans[i] = Math.abs(lsum - rsum);
             lsum += nums[i];
+            i++;
         }
         return ans;
     }
