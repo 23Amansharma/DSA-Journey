@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/23Amansharma/DSA-Journey/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/23Amansharma/DSA-Journey/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/23Amansharma/DSA-Journey/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3838-weighted-word-mapping](https://github.com/23Amansharma/DSA-Journey/tree/master/3838-weighted-word-mapping) |
 ## Linked List
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/23Amansharma/DSA-Journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/23Amansharma/DSA-Journey/tree/master/3093-longest-common-suffix-queries) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/23Amansharma/DSA-Journey/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3838-weighted-word-mapping](https://github.com/23Amansharma/DSA-Journey/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/23Amansharma/DSA-Journey/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/23Amansharma/DSA-Journey/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/23Amansharma/DSA-Journey/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/23Amansharma/DSA-Journey/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |
