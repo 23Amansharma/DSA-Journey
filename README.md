@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/23Amansharma/DSA-Journey/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/23Amansharma/DSA-Journey/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/23Amansharma/DSA-Journey/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/23Amansharma/DSA-Journey/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/23Amansharma/DSA-Journey/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/23Amansharma/DSA-Journey/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/23Amansharma/DSA-Journey/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/23Amansharma/DSA-Journey/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/23Amansharma/DSA-Journey/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/23Amansharma/DSA-Journey/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1833-maximum-ice-cream-bars](https://github.com/23Amansharma/DSA-Journey/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/23Amansharma/DSA-Journey/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/23Amansharma/DSA-Journey/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/23Amansharma/DSA-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/23Amansharma/DSA-Journey/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/23Amansharma/DSA-Journey/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/23Amansharma/DSA-Journey/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1833-maximum-ice-cream-bars](https://github.com/23Amansharma/DSA-Journey/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/23Amansharma/DSA-Journey/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/23Amansharma/DSA-Journey/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/23Amansharma/DSA-Journey/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -516,4 +519,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/23Amansharma/DSA-Journey/tree/master/3161-block-placement-queries) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/23Amansharma/DSA-Journey/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
