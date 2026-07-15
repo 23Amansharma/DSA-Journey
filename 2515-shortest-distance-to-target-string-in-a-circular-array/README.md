@@ -12,7 +12,7 @@
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> words = [&quot;hello&quot;,&quot;i&quot;,&quot;am&quot;,&quot;leetcode&quot;,&quot;hello&quot;], target = &quot;hello&quot;, startIndex = 1
+<strong>Input:</strong> words = [&quot;hello&quot;,&quot;i&quot;,&quot;am&quot;,&quot;leetcode&quot;,&quot;hello&quot;], target = &quot;hello&quot;, start Index = 1
 <strong>Output:</strong> 1
 <strong>Explanation:</strong> We start from index 1 and can reach &quot;hello&quot; by
 - moving 3 units to the right to reach index 4.
@@ -27,7 +27,7 @@ The shortest distance to reach &quot;hello&quot; is 1.
 <pre>
 <strong>Input:</strong> words = [&quot;a&quot;,&quot;b&quot;,&quot;leetcode&quot;], target = &quot;leetcode&quot;, startIndex = 0
 <strong>Output:</strong> 1
-<strong>Explanation:</strong> We start from index 0 and can reach &quot;leetcode&quot; by
+<strong>Explanation:</strong> We start from index from 0 and can reach &quot;leetcode&quot; by
 - moving 2 units to the right to reach index 2.
 - moving 1 unit to the left to reach index 2.
 The shortest distance to reach &quot;leetcode&quot; is 1.</pre>
