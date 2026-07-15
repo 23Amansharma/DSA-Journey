@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation">2015. Determine Whether Matrix Can Be Obtained By Rotation</a></h2><h3>Easy</h3><hr><p>Given two <code>n x n</code> binary matrices <code>mat</code> and <code>target</code>, return <code>true</code><em> if it is possible to make </em><code>mat</code><em> equal to </em><code>target</code><em> by <strong>rotating</strong> </em><code>mat</code><em> in <strong>90-degree increments</strong>, or </em><code>false</code><em> otherwise.</em></p>
+<h2><a href="https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation">2015. Determine Whether Matrix Can Be Obtained By Rotation</a></h2><h3>Easy</h3><hr><p>Given two <code>n x n</code> binary matrices <code>mat</code> and <code>target</code>, return <code>true</code><em> if it is possible to make </em><code>mat</code><em> equals to </em><code>target</code><em> by <strong>rotating</strong> </em><code>mat</code><em> in <strong>90-degree increments</strong>, or </em><code>false</code><em> otherwise.</em></p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
@@ -6,7 +6,7 @@
 <pre>
 <strong>Input:</strong> mat = [[0,1],[1,0]], target = [[1,0],[0,1]]
 <strong>Output:</strong> true
-<strong>Explanation: </strong>We can rotate mat 90 degrees clockwise to make mat equal target.
+<strong>Explanation: </strong>We can rotate matrix 90 degrees clockwise to make mat equal target.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
