@@ -1,3 +1,127 @@
+Lexicographically Smallest Subsequence of Distinct Characters (Java)
+
+Problem Statement
+
+Given a string "s", return the lexicographically smallest subsequence of "s" that contains all the distinct characters exactly once.
+
+A subsequence is formed by deleting zero or more characters without changing the order of the remaining characters.
+
+Example 1
+
+Input: s = "bcabc"
+Output: "abc"
+
+Example 2
+
+Input: s = "cbacdcbc"
+Output: "acdb"
+
+---
+
+Approach (Greedy + Monotonic Stack)
+
+The idea is to build the answer greedily while ensuring every distinct character appears exactly once.
+
+Step 1: Store the Last Occurrence
+
+First, store the last index of every character.
+
+Example:
+
+s = "cbacdcbc"
+
+Character : Last Index
+c : 7
+b : 6
+a : 2
+d : 4
+
+This helps us decide whether a character can be removed from the current answer because it will appear again later.
+
+Step 2: Build the Answer
+
+Maintain:
+
+- "last[]" → Last occurrence of every character.
+- "used[]" → Checks whether a character is already included.
+- "StringBuilder" → Works as a stack.
+
+For each character:
+
+1. If it is already used, skip it.
+
+2. Otherwise, while:
+   
+   - Stack is not empty.
+   - Top character is greater than the current character.
+   - Top character appears again later.
+   
+   Remove the top character from the stack.
+
+3. Add the current character to the stack.
+
+This guarantees the lexicographically smallest valid subsequence.
+
+---
+
+Dry Run
+
+s = "cbacdcbc"
+
+Read c -> c
+Read b -> remove c, push b -> b
+Read a -> remove b, push a -> a
+Read c -> ac
+Read d -> acd
+Read c -> already used
+Read b -> acdb
+Read c -> already used
+
+Answer = acdb
+
+---
+
+Complexity Analysis
+
+- Time Complexity: "O(n)"
+- Space Complexity: "O(1)" (26 lowercase letters)
+
+---
+
+Java Solution
+
+class Solution {
+    public String smallestSubsequence(String s) {
+        int[] last = new int[26];
+        for (int i = 0; i < s.length(); i++) {
+            last[s.charAt(i) - 'a'] = i;
+        }
+
+        boolean[] used = new boolean[26];
+        StringBuilder st = new StringBuilder();
+
+        for (int i = 0; i < s.length(); i++) {
+            char c = s.charAt(i);
+
+            if (used[c - 'a']) {
+                continue;
+            }
+
+            while (st.length() > 0 &&
+                   st.charAt(st.length() - 1) > c &&
+                   last[st.charAt(st.length() - 1) - 'a'] > i) {
+                used[st.charAt(st.length() - 1) - 'a'] = false;
+                st.deleteCharAt(st.length() - 1);
+            }
+
+            st.append(c);
+            used[c - 'a'] = true;
+        }
+
+        return st.toString();
+    }
+}
+## solution ##
 class Solution {
     public String smallestSubsequence(String s) {
         int[] last = new int[26];
