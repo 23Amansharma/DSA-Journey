@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/23Amansharma/DSA-Journey/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/23Amansharma/DSA-Journey/tree/master/0334-increasing-triplet-subsequence) |
 | [0396-rotate-function](https://github.com/23Amansharma/DSA-Journey/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/23Amansharma/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/23Amansharma/DSA-Journey/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23Amansharma/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/23Amansharma/DSA-Journey/tree/master/0704-binary-search) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/23Amansharma/DSA-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/23Amansharma/DSA-Journey/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/23Amansharma/DSA-Journey/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/23Amansharma/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23Amansharma/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/23Amansharma/DSA-Journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/23Amansharma/DSA-Journey/tree/master/0788-rotated-digits) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/23Amansharma/DSA-Journey/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/23Amansharma/DSA-Journey/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/23Amansharma/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/23Amansharma/DSA-Journey/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Two Pointers
 |  |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/23Amansharma/DSA-Journey/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/23Amansharma/DSA-Journey/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/23Amansharma/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/23Amansharma/DSA-Journey/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/23Amansharma/DSA-Journey/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/23Amansharma/DSA-Journey/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -587,4 +591,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/23Amansharma/DSA-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/23Amansharma/DSA-Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/23Amansharma/DSA-Journey/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
