@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/23Amansharma/DSA-Journey/tree/master/1306-jump-game-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/23Amansharma/DSA-Journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/23Amansharma/DSA-Journey/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1406-stone-game-iii](https://github.com/23Amansharma/DSA-Journey/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/23Amansharma/DSA-Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/23Amansharma/DSA-Journey/tree/master/1441-build-an-array-with-stack-operations) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/23Amansharma/DSA-Journey/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/23Amansharma/DSA-Journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/23Amansharma/DSA-Journey/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/23Amansharma/DSA-Journey/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/23Amansharma/DSA-Journey/tree/master/1406-stone-game-iii) |
 | [1622-fancy-sequence](https://github.com/23Amansharma/DSA-Journey/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/23Amansharma/DSA-Journey/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/23Amansharma/DSA-Journey/tree/master/1840-maximum-building-height) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/23Amansharma/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/23Amansharma/DSA-Journey/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/23Amansharma/DSA-Journey/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1406-stone-game-iii](https://github.com/23Amansharma/DSA-Journey/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/23Amansharma/DSA-Journey/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/23Amansharma/DSA-Journey/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/23Amansharma/DSA-Journey/tree/master/1871-jump-game-vii) |
@@ -595,4 +598,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/23Amansharma/DSA-Journey/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/23Amansharma/DSA-Journey/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/23Amansharma/DSA-Journey/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/23Amansharma/DSA-Journey/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
