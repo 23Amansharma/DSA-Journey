@@ -1,0 +1,31 @@
+class Solution {
+    public boolean stoneGameIX(int[] stones) {
+        int[] count = new int[3];
+
+        // Count remainders
+        for (int stone : stones) {
+            count[stone % 3]++;
+        }
+
+        int c0 = count[0];
+        int c1 = count[1];
+        int c2 = count[2];
+
+        // Both remainder 1 and remainder 2 stones are required
+        if (c1 == 0 || c2 == 0) {
+            return false;
+        }
+
+        // If difference is greater than 2, Alice wins
+        if (Math.abs(c1 - c2) > 2) {
+            return true;
+        }
+
+        // If equal, odd number of 0-remainder stones makes Alice win
+        if (c1 == c2) {
+            return c0 % 2 == 1;
+        }
+
+        return true;
+    }
+}
