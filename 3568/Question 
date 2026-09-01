@@ -1,0 +1,73 @@
+LeetCode 3568 — Short Question
+
+Question:
+You are given a classroom grid with:
+
+S = starting position
+
+L = litter to collect
+
+R = recharge point
+
+X = obstacle
+
+
+You have limited energy. Every move uses 1 energy, and reaching R restores energy to the maximum. Find the minimum number of moves to collect all litter. If impossible, return -1.
+
+Approach
+
+BFS + Bitmask
+
+State: (row, col, remainingEnergy, mask)
+
+BFS → minimum moves
+
+Bitmask → track which litter is collected
+
+Energy → track remaining moves
+
+R → reset energy
+
+
+Algorithm
+
+1. Find S and assign a bit to every L.
+
+
+2. Start BFS from S.
+
+
+3. For every 4-direction move:
+
+X → skip
+
+decrease energy by 1
+
+R → reset energy
+
+L → set its bit in mask
+
+
+
+4. If mask == allLitterMask, return moves.
+
+
+5. If BFS ends, return -1.
+
+
+
+Time Complexity
+
+O(m × n × E × 2^L)
+
+Space Complexity
+
+O(m × n × E × 2^L)
+
+Where:
+
+m × n = grid size
+
+E = maximum energy
+
+L ≤ 10 = number of litter pieces
