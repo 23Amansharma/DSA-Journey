@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3742-maximum-path-score-in-a-grid](https://github.com/23Amansharma/DSA-Journey/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/23Amansharma/DSA-Journey/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/23Amansharma/DSA-Journey/tree/master/3838-weighted-word-mapping) |
+| [3904-smallest-stable-index-ii](https://github.com/23Amansharma/DSA-Journey/tree/master/3904-smallest-stable-index-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/23Amansharma/DSA-Journey/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/23Amansharma/DSA-Journey/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/23Amansharma/DSA-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3904-smallest-stable-index-ii](https://github.com/23Amansharma/DSA-Journey/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
