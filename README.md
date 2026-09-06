@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/23Amansharma/DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/23Amansharma/DSA-Journey/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/23Amansharma/DSA-Journey/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/23Amansharma/DSA-Journey/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/23Amansharma/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/23Amansharma/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/23Amansharma/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/23Amansharma/DSA-Journey/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/23Amansharma/DSA-Journey/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/23Amansharma/DSA-Journey/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/23Amansharma/DSA-Journey/tree/master/0486-predict-the-winner) |
