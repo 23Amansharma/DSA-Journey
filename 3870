@@ -1,0 +1,9 @@
+LeetCode 3870 — Count Commas in Range
+
+Given an integer n, count the total number of commas needed when writing all integers from 1 to n using standard comma formatting.
+
+For example:
+1000 is written as 1,000 and contains 1 comma.
+100000 is written as 100,000 and contains 1 comma.
+
+Return the total number of commas used.
