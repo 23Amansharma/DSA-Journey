@@ -1,0 +1,17 @@
+Question — Count Commas in Range
+Given two integers n and m, count the total number of commas that appear when writing all integers from n to m in decimal notation.
+Example:
+1000 → 1,000 → 1 comma
+1000000 → 1,000,000 → 2 commas
+Pattern
+Range Counting / Digit Counting
+Algorithm
+Solution 1 — Brute Force
+n se m tak har number check karo.
+Us number mein kitne commas honge, calculate karo.
+Sabko add kar do.
+Solution 2 — Mathematical Counting
+Range ko digit-length ke according divide karo.
+1000–999999 ke har number mein 1 comma.
+1000000–999999999 ke har number mein 2 commas.
+Isi tarah required ranges ka contribution add karo.
