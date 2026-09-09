@@ -1,0 +1,32 @@
+class Solution {
+    public int countCommas(int n, int m) {
+        int ans = 0;
+
+        // Pattern: Digit length determines number of commas
+        for (int i = n; i <= m; i++) {
+            if (i >= 1000) ans++;
+            if (i >= 1000000) ans++;
+            if (i >= 1000000000) ans++;
+        }
+
+        return ans;
+    }
+}
+Brut force after 
+mathematical 
+class Solution {
+    public int countCommas(int n, int m) {
+        int ans = 0;
+
+        // Pattern: Count numbers crossing comma thresholds
+        int[] threshold = {1000, 1000000, 1000000000};
+
+        for (int t : threshold) {
+            if (m >= t) {
+                ans += m - Math.max(n, t) + 1;
+            }
+        }
+
+        return ans;
+    }
+}
