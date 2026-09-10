@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/23Amansharma/DSA-Journey/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/23Amansharma/DSA-Journey/tree/master/0061-rotate-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/23Amansharma/DSA-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/23Amansharma/DSA-Journey/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/23Amansharma/DSA-Journey/tree/master/0237-delete-node-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/23Amansharma/DSA-Journey/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/23Amansharma/DSA-Journey/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/23Amansharma/DSA-Journey/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/23Amansharma/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/23Amansharma/DSA-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0345-reverse-vowels-of-a-string](https://github.com/23Amansharma/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/23Amansharma/DSA-Journey/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/23Amansharma/DSA-Journey/tree/master/0443-string-compression) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/23Amansharma/DSA-Journey/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/23Amansharma/DSA-Journey/tree/master/0013-roman-to-integer) |
+| [0160-intersection-of-two-linked-lists](https://github.com/23Amansharma/DSA-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/23Amansharma/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/23Amansharma/DSA-Journey/tree/master/0268-missing-number) |
 | [0874-walking-robot-simulation](https://github.com/23Amansharma/DSA-Journey/tree/master/0874-walking-robot-simulation) |
