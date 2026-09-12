@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/23Amansharma/DSA-Journey/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/23Amansharma/DSA-Journey/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/23Amansharma/DSA-Journey/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/23Amansharma/DSA-Journey/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/23Amansharma/DSA-Journey/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/23Amansharma/DSA-Journey/tree/master/0237-delete-node-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/23Amansharma/DSA-Journey/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/23Amansharma/DSA-Journey/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/23Amansharma/DSA-Journey/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/23Amansharma/DSA-Journey/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/23Amansharma/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/23Amansharma/DSA-Journey/tree/master/1545-find-kth-bit-in-nth-binary-string) |
