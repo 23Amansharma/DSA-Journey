@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/23Amansharma/DSA-Journey/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23Amansharma/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/23Amansharma/DSA-Journey/tree/master/0704-binary-search) |
+| [0835-image-overlap](https://github.com/23Amansharma/DSA-Journey/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/23Amansharma/DSA-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0874-walking-robot-simulation](https://github.com/23Amansharma/DSA-Journey/tree/master/0874-walking-robot-simulation) |
 | [1306-jump-game-iii](https://github.com/23Amansharma/DSA-Journey/tree/master/1306-jump-game-iii) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/23Amansharma/DSA-Journey/tree/master/0048-rotate-image) |
+| [0835-image-overlap](https://github.com/23Amansharma/DSA-Journey/tree/master/0835-image-overlap) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/23Amansharma/DSA-Journey/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/23Amansharma/DSA-Journey/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/23Amansharma/DSA-Journey/tree/master/1559-detect-cycles-in-2d-grid) |
