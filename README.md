@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/23Amansharma/DSA-Journey/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/23Amansharma/DSA-Journey/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/23Amansharma/DSA-Journey/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/23Amansharma/DSA-Journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/23Amansharma/DSA-Journey/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/23Amansharma/DSA-Journey/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/23Amansharma/DSA-Journey/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/23Amansharma/DSA-Journey/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/23Amansharma/DSA-Journey/tree/master/0605-can-place-flowers) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/23Amansharma/DSA-Journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/23Amansharma/DSA-Journey/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/23Amansharma/DSA-Journey/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/23Amansharma/DSA-Journey/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/23Amansharma/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/23Amansharma/DSA-Journey/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/23Amansharma/DSA-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/23Amansharma/DSA-Journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/23Amansharma/DSA-Journey/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/23Amansharma/DSA-Journey/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/23Amansharma/DSA-Journey/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/23Amansharma/DSA-Journey/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/23Amansharma/DSA-Journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/23Amansharma/DSA-Journey/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/23Amansharma/DSA-Journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/23Amansharma/DSA-Journey/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/23Amansharma/DSA-Journey/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/23Amansharma/DSA-Journey/tree/master/1833-maximum-ice-cream-bars) |
