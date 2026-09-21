@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/23Amansharma/DSA-Journey/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/23Amansharma/DSA-Journey/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/23Amansharma/DSA-Journey/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2485-find-the-pivot-integer](https://github.com/23Amansharma/DSA-Journey/tree/master/2485-find-the-pivot-integer) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/23Amansharma/DSA-Journey/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/23Amansharma/DSA-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/23Amansharma/DSA-Journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/23Amansharma/DSA-Journey/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/23Amansharma/DSA-Journey/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/23Amansharma/DSA-Journey/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2485-find-the-pivot-integer](https://github.com/23Amansharma/DSA-Journey/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/23Amansharma/DSA-Journey/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/23Amansharma/DSA-Journey/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/23Amansharma/DSA-Journey/tree/master/2906-construct-product-matrix) |
