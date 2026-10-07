@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/23Amansharma/DSA-Journey/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/23Amansharma/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/23Amansharma/DSA-Journey/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/23Amansharma/DSA-Journey/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/23Amansharma/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/23Amansharma/DSA-Journey/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/23Amansharma/DSA-Journey/tree/master/0443-string-compression) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/23Amansharma/DSA-Journey/tree/master/0301-remove-invalid-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/23Amansharma/DSA-Journey/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/23Amansharma/DSA-Journey/tree/master/1980-find-unique-binary-string) |
 ## Prefix Sum
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/23Amansharma/DSA-Journey/tree/master/0301-remove-invalid-parentheses) |
 | [1306-jump-game-iii](https://github.com/23Amansharma/DSA-Journey/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/23Amansharma/DSA-Journey/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/23Amansharma/DSA-Journey/tree/master/1559-detect-cycles-in-2d-grid) |
