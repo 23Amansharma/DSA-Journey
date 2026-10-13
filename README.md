@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/23Amansharma/DSA-Journey/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/23Amansharma/DSA-Journey/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/23Amansharma/DSA-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/23Amansharma/DSA-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/23Amansharma/DSA-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/23Amansharma/DSA-Journey/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/23Amansharma/DSA-Journey/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/23Amansharma/DSA-Journey/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/23Amansharma/DSA-Journey/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/23Amansharma/DSA-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/23Amansharma/DSA-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/23Amansharma/DSA-Journey/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/23Amansharma/DSA-Journey/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/23Amansharma/DSA-Journey/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/23Amansharma/DSA-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
 |  |
 | ------- |
