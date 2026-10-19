@@ -1,11 +1,23 @@
 class Solution {
     public List<Integer> targetIndices(int[] nums, int target) {
-        Arrays.sort(nums);
-        List<Integer>store = new ArrayList<>();
-        for(int i = 0;i< nums.length;i++)
-        {
-            if(nums[i] == target) store.add(i);
+        int count = 0;
+        int frq = 0;
+        // Count elements smaller than target and elements equal to target
+        for (int x : nums) {
+            if (x < target) {
+                count++;
+            } else if (x == target) {
+                frq++;
+            }
         }
+        
+        List<Integer> store = new ArrayList<>();
+        
+        // Add indices directly without sorting
+        for (int i = 0; i < frq; i++) {
+            store.add(count + i);
+        }
+        
         return store;
     }
 }
