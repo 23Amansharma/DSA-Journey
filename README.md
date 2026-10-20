@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3742-maximum-path-score-in-a-grid](https://github.com/23Amansharma/DSA-Journey/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/23Amansharma/DSA-Journey/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/23Amansharma/DSA-Journey/tree/master/3838-weighted-word-mapping) |
+| [3886-sum-of-sortable-integers](https://github.com/23Amansharma/DSA-Journey/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/23Amansharma/DSA-Journey/tree/master/3904-smallest-stable-index-ii) |
 ## Linked List
 |  |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/23Amansharma/DSA-Journey/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/23Amansharma/DSA-Journey/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/23Amansharma/DSA-Journey/tree/master/3783-mirror-distance-of-an-integer) |
+| [3886-sum-of-sortable-integers](https://github.com/23Amansharma/DSA-Journey/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/23Amansharma/DSA-Journey/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/23Amansharma/DSA-Journey/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/23Amansharma/DSA-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/23Amansharma/DSA-Journey/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/23Amansharma/DSA-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/23Amansharma/DSA-Journey/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/23Amansharma/DSA-Journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3886-sum-of-sortable-integers](https://github.com/23Amansharma/DSA-Journey/tree/master/3886-sum-of-sortable-integers) |
 ## String Matching
 |  |
 | ------- |
