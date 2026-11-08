@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/23Amansharma/DSA-Journey/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/23Amansharma/DSA-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0874-walking-robot-simulation](https://github.com/23Amansharma/DSA-Journey/tree/master/0874-walking-robot-simulation) |
+| [1267-count-servers-that-communicate](https://github.com/23Amansharma/DSA-Journey/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/23Amansharma/DSA-Journey/tree/master/1306-jump-game-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/23Amansharma/DSA-Journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/23Amansharma/DSA-Journey/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/23Amansharma/DSA-Journey/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1267-count-servers-that-communicate](https://github.com/23Amansharma/DSA-Journey/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/23Amansharma/DSA-Journey/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/23Amansharma/DSA-Journey/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/23Amansharma/DSA-Journey/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/23Amansharma/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/23Amansharma/DSA-Journey/tree/master/1267-count-servers-that-communicate) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/23Amansharma/DSA-Journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/23Amansharma/DSA-Journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-furthest-point-from-origin](https://github.com/23Amansharma/DSA-Journey/tree/master/2833-furthest-point-from-origin) |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/23Amansharma/DSA-Journey/tree/master/0048-rotate-image) |
 | [0835-image-overlap](https://github.com/23Amansharma/DSA-Journey/tree/master/0835-image-overlap) |
+| [1267-count-servers-that-communicate](https://github.com/23Amansharma/DSA-Journey/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/23Amansharma/DSA-Journey/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/23Amansharma/DSA-Journey/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/23Amansharma/DSA-Journey/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -625,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/23Amansharma/DSA-Journey/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/23Amansharma/DSA-Journey/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/23Amansharma/DSA-Journey/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/23Amansharma/DSA-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -684,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/23Amansharma/DSA-Journey/tree/master/0301-remove-invalid-parentheses) |
+| [1267-count-servers-that-communicate](https://github.com/23Amansharma/DSA-Journey/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/23Amansharma/DSA-Journey/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/23Amansharma/DSA-Journey/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/23Amansharma/DSA-Journey/tree/master/1559-detect-cycles-in-2d-grid) |
